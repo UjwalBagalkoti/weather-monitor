@@ -4,7 +4,7 @@ A live weather monitoring dashboard — real-time conditions, an hourly forecast
 
 Created by **UjwalBagalkoti**.
 
-## Live Dem0
+## Live Demo
 https://weather-monitor-vert.vercel.app/
 
 ## Features
