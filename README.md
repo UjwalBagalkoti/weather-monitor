@@ -22,8 +22,8 @@ This is a single static HTML file with no dependencies to install.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/UjwalBagalkoti /https://github.com/UjwalBagalkoti/weather-monitor/tree/main.git
+   cd https://github.com/UjwalBagalkoti/weather-monitor/tree/main
    ```
 2. Open `index.html` directly in your browser, or serve it locally:
    ```bash
@@ -36,7 +36,7 @@ This is a single static HTML file with no dependencies to install.
 1. Push this repo to GitHub.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to `Deploy from a branch`, branch `main`, folder `/ (root)`.
-4. Save. Your app will be live at `https://<your-username>.github.io/<your-repo>/`.
+4. Save. Your app will be live at `https://UjwalBagalkoti.github.io/https://github.com/UjwalBagalkoti/weather-monitor/tree/main/`.
 
 > **Note:** Open-Meteo's API must be reachable from wherever you view the page. It works from a plain browser tab or GitHub Pages; it will not work inside a sandboxed preview panel that restricts outbound network requests.
 
@@ -46,6 +46,3 @@ This is a single static HTML file with no dependencies to install.
 - [Chart.js](https://www.chartjs.org/) for the hourly temperature chart
 - [Open-Meteo](https://open-meteo.com/) for weather and geocoding data
 
-## License
-
-MIT — see [LICENSE](LICENSE).
