@@ -25,8 +25,8 @@ This is a single static HTML file with no dependencies to install.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/UjwalBagalkoti /https://github.com/UjwalBagalkoti/weather-monitor/tree/main.git
-   cd https://github.com/UjwalBagalkoti/weather-monitor/tree/main
+   git clone https://github.com/UjwalBagalkoti/weather-monitor.git
+   cd weather-monitor
    ```
 2. Open `index.html` directly in your browser, or serve it locally:
    ```bash
@@ -34,12 +34,13 @@ This is a single static HTML file with no dependencies to install.
    ```
    then visit `http://localhost:8000`.
 
-## Deploy with GitHub Pages
+## Deploy on Vercel
 
-1. Push this repo to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to `Deploy from a branch`, branch `main`, folder `/ (root)`.
-4. Save. Your app will be live at `https://UjwalBagalkoti.github.io/https://github.com/UjwalBagalkoti/weather-monitor/tree/main/`.
+1. Import the repository into Vercel.
+2. Use the default static-site settings.
+3. Deploy. No build command is required.
+
+The current production deployment is linked above.
 
 > **Note:** Open-Meteo's API must be reachable from wherever you view the page. It works from a plain browser tab or GitHub Pages; it will not work inside a sandboxed preview panel that restricts outbound network requests.
 
